@@ -26,7 +26,6 @@ public class HelloMessageListener {
                        @Headers MessageHeaders headers, Message message) {
 
 //        System.out.println("I got a message!!!");
-
 //        System.out.println(helloWorldMessage);
 
     }
